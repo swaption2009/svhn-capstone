@@ -94,11 +94,11 @@ ENV/
 .idea/
 .ipynb_checkpoints/SVHN Capstone_cropped files-checkpoint.ipynb
 .ipynb_checkpoints/SVHN Capstone_full numbers-checkpoint.ipynb
-SVHN Capstone_cropped files.ipynb
-SVHN_multi.pickle
 test.tar.gz
 test/
 test_32x32.mat
 train.tar.gz
 train/
 train_32x32.mat
+extra_32x32.mat
+SVHN_single.pickle
