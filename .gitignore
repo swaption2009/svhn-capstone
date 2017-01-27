@@ -102,3 +102,12 @@ train/
 train_32x32.mat
 extra_32x32.mat
 SVHN_single.pickle
+SVHN_MODEL.ckpt.data-00000-of-00001
+SVHN_MODEL.ckpt.index
+SVHN_MODEL.ckpt.meta
+checkpoint
+extra/
+SVHN Capstone_sequence of digits.ipynb
+SVHN Capstone_single digit.ipynb
+SVHN+Capstone_single+digit.html
+extra.tar.gz
