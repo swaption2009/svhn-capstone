@@ -108,6 +108,10 @@ SVHN_MODEL.ckpt.meta
 checkpoint
 extra/
 SVHN Capstone_sequence of digits.ipynb
-SVHN Capstone_single digit.ipynb
-SVHN+Capstone_single+digit.html
 extra.tar.gz
+digitStruct.py
+digitStructMatToCsv.py
+hello.py
+SVHN Capstone_full numbers-RGB-visualization.ipynb
+SVHN+Capstone_single+digit.html
+log_trial_1/
